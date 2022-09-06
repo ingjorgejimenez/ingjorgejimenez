@@ -45,7 +45,8 @@ Y alguna más...
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IngJorge-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=101010)](https://www.linkedin.com/in/ing-jorge-jimenez/)
 [![Facebook](https://img.shields.io/badge/Facebook-@Jorge_Jimenez-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=101010)](https://www.facebook.com/ing_jorgejimenez)
-[![Facebook](https://img.shields.io/badge/WhatsApp-Jorge_Jimenez-25D366?style=for-the-badge&logo=WhatsApp&logoColor=25D366&labelColor=101010)](https://wa.me/+573183296814)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-Jorge_Jimenez-25D366?style=for-the-badge&logo=WhatsApp&logoColor=25D366&labelColor=101010)](https://wa.me/+573183296814)
+[![Outlook](https://img.shields.io/badge/Outlook-ingjorge-0078D4?style=for-the-badge&logo=Microsoft+Outlook&logoColor=0078D4&labelColor=101010)](mailto:ing_jorgejimenez@outlook.com)
 </br>
 #### Puedes apoyarme siguiendome "Follow ✨". ¡Gracias!
 
