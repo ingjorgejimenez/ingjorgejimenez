@@ -48,9 +48,39 @@ Y alguna más...
 [![whatsapp](https://img.shields.io/badge/WhatsApp-Jorge_Jimenez-25D366?style=for-the-badge&logo=WhatsApp&logoColor=25D366&labelColor=101010)](https://wa.me/+573183296814)
 [![Outlook](https://img.shields.io/badge/Outlook-ingjorge-0078D4?style=for-the-badge&logo=Microsoft+Outlook&logoColor=0078D4&labelColor=101010)](mailto:ing_jorgejimenez@outlook.com)
 </br>
-#### Puedes apoyarme siguiendome "Follow ✨". ¡Gracias!
-
+### Puedes apoyarme siguiendome "Follow ✨". ¡Gracias!
 [![GitHub Star](https://img.shields.io/badge/GitHub-Follow-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ingjorgejimenez)
+
+## Proyectos Realizados: ⚡
+<table style="width: 100%">
+  <tr>
+    <td>
+      <a href="https://websitejorgejimenez.000webhostapp.com">
+        <img src="https://websitejorgejimenez.000webhostapp.com/ccb.png" />
+      </a>
+    </td>
+    <td>
+      <a href="http://desarrollo.lapatria.com/">
+        <img
+          src="https://websitejorgejimenez.000webhostapp.com/patria.png"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://websitejorgejimenez.000webhostapp.com/">
+        <img src="https://websitejorgejimenez.000webhostapp.com/pb.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://ingjorgejimenez.github.io/Movies/">
+        <img
+          src="https://websitejorgejimenez.000webhostapp.com/movie.png"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+<h3>Avanza para ver mis proyectos publicos: ↆ</h3>
 
 
 
