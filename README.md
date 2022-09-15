@@ -61,9 +61,7 @@ Y alguna más...
     </td>
     <td>
       <a href="http://desarrollo.lapatria.com/" target="_blank"> 
-        <img
-          src="https://websitejorgejimenez.000webhostapp.com/patria.png"
-        />
+        <img src="https://websitejorgejimenez.000webhostapp.com/patria.png"/>
       </a>
     </td>
     <td>
@@ -73,9 +71,7 @@ Y alguna más...
     </td>
     <td>
       <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-        <img
-          src="https://websitejorgejimenez.000webhostapp.com/movie.png"
-        />
+        <img src="https://websitejorgejimenez.000webhostapp.com/movie.png" />
       </a>
     </td>
   </tr>
