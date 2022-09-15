@@ -55,24 +55,24 @@ Y alguna más...
 <table style="width: 100%">
   <tr>
     <td>
-      <a href="https://websitejorgejimenez.000webhostapp.com">
+      <a href="https://websitejorgejimenez.000webhostapp.com" target="_blank">
         <img src="https://websitejorgejimenez.000webhostapp.com/ccb.png" />
       </a>
     </td>
     <td>
-      <a href="http://desarrollo.lapatria.com/">
+      <a href="http://desarrollo.lapatria.com/" target="_blank"> 
         <img
           src="https://websitejorgejimenez.000webhostapp.com/patria.png"
         />
       </a>
     </td>
     <td>
-      <a href="https://websitejorgejimenez.000webhostapp.com/">
+      <a href="https://websitejorgejimenez.000webhostapp.com/" target="_blank">
         <img src="https://websitejorgejimenez.000webhostapp.com/pb.png" />
       </a>
     </td>
     <td>
-      <a href="https://ingjorgejimenez.github.io/Movies/">
+      <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
         <img
           src="https://websitejorgejimenez.000webhostapp.com/movie.png"
         />
