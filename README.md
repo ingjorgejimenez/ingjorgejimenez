@@ -56,17 +56,17 @@ Y alguna más...
   <tr>
     <td>
       <a href="https://urosario.edu.co/" target="_blank">
-      <iframe src="https://drive.google.com/file/d/1sqcZa8k7edItWZVD_wZLJfzJDILSxY1Y/preview" width="640" height="480" allow="autoplay"></iframe>
+        <h3>Universidad del Rosario</h3>
       </a>
     </td>
     <td>
       <a href="https://www.lapatria.com/" target="_blank"> 
-        <iframe src="https://drive.google.com/file/d/1gcvwZzmg35wpZHw_YYhgKjtn79Jy5rri/preview" width="640" height="480" allow="autoplay"></iframe>
+        <h3>La Patria</h3>
       </a>
     </td>
     <td>
       <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-        <iframe src="https://drive.google.com/file/d/1BnP_25jBzogRVR540wTDv2Q9UZSDi0x9/preview" width="640" height="480" allow="autoplay"></iframe>
+         <h3>Website React</h3>
       </a>
     </td>
   </tr>
