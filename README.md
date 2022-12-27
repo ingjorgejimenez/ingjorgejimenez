@@ -55,23 +55,18 @@ Y alguna más...
 <table style="width: 100%">
   <tr>
     <td>
-      <a href="https://websitejorgejimenez.000webhostapp.com" target="_blank">
-        <img src="https://websitejorgejimenez.000webhostapp.com/ccb.png" />
+      <a href="https://urosario.edu.co/" target="_blank">
+        <img src="https://drive.google.com/file/d/1sqcZa8k7edItWZVD_wZLJfzJDILSxY1Y/view?usp=sharing" />
       </a>
     </td>
     <td>
-      <a href="http://desarrollo.lapatria.com/" target="_blank"> 
-        <img src="https://websitejorgejimenez.000webhostapp.com/patria.png"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://websitejorgejimenez.000webhostapp.com/" target="_blank">
-        <img src="https://websitejorgejimenez.000webhostapp.com/pb.png" />
+      <a href="https://www.lapatria.com/" target="_blank"> 
+        <img src="https://drive.google.com/file/d/1gcvwZzmg35wpZHw_YYhgKjtn79Jy5rri/view?usp=sharing"/>
       </a>
     </td>
     <td>
       <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-        <img src="https://websitejorgejimenez.000webhostapp.com/movie.png" />
+        <img src="https://drive.google.com/file/d/1BnP_25jBzogRVR540wTDv2Q9UZSDi0x9/view?usp=sharing" />
       </a>
     </td>
   </tr>
