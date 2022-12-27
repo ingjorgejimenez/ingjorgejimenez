@@ -56,17 +56,17 @@ Y alguna más...
   <tr>
     <td>
       <a href="https://urosario.edu.co/" target="_blank">
-        <img src="https://drive.google.com/file/d/1sqcZa8k7edItWZVD_wZLJfzJDILSxY1Y/view?usp=sharing" />
+      <iframe src="https://drive.google.com/file/d/1sqcZa8k7edItWZVD_wZLJfzJDILSxY1Y/preview" width="640" height="480" allow="autoplay"></iframe>
       </a>
     </td>
     <td>
       <a href="https://www.lapatria.com/" target="_blank"> 
-        <img src="https://drive.google.com/file/d/1gcvwZzmg35wpZHw_YYhgKjtn79Jy5rri/view?usp=sharing"/>
+        <iframe src="https://drive.google.com/file/d/1gcvwZzmg35wpZHw_YYhgKjtn79Jy5rri/preview" width="640" height="480" allow="autoplay"></iframe>
       </a>
     </td>
     <td>
       <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-        <img src="https://drive.google.com/file/d/1BnP_25jBzogRVR540wTDv2Q9UZSDi0x9/view?usp=sharing" />
+        <iframe src="https://drive.google.com/file/d/1BnP_25jBzogRVR540wTDv2Q9UZSDi0x9/preview" width="640" height="480" allow="autoplay"></iframe>
       </a>
     </td>
   </tr>
