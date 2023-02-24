@@ -61,7 +61,7 @@ Y alguna más...
     </td>
     <td>
       <a  href="https://www.lapatria.com" target="_blank">         
-        <iframe src="https://www.lapatria.com" width="100%" height="auto" ></iframe>
+       <img src="https://www.dropbox.com/s/dj8h4vsvvuevuig/La_patria.png?dl=0">
       </a>
     </td>
     <td>
