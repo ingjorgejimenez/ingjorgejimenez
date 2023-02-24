@@ -61,7 +61,7 @@ Y alguna más...
     </td>
     <td>
       <a  href="https://www.lapatria.com" target="_blank">         
-       <img src="https://www.dropbox.com/s/dj8h4vsvvuevuig/La_patria.png?dl=0">
+       <img src="https://www.dropbox.com/s/dj8h4vsvvuevuig/La_patria.png?dl=0" alt="La patria">
       </a>
     </td>
     <td>
