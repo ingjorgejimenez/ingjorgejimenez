@@ -55,13 +55,15 @@ Y alguna más...
 <table style="width: 100%">
   <tr>
     <td>
-      <a href="https://urosario.edu.co/" target="_blank">
+      <a href="https://urosario.edu.co" target="_blank">
         <h3>Universidad del Rosario</h3>
+         <img src="https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https://urosario.edu.co&screenshot=true" alt="Universidad del Rosario">
       </a>
     </td>
     <td>
-      <a href="https://www.lapatria.com/" target="_blank"> 
+      <a  href="https://www.lapatria.com" target="_blank"> 
         <h3>La Patria</h3>
+        <img src="https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https://www.lapatria.com&screenshot=true" alt="La patria">
       </a>
     </td>
     <td>
