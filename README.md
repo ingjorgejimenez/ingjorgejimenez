@@ -56,12 +56,12 @@ Y alguna más...
   <tr>
     <td>
       <a href="https://urosario.edu.co" target="_blank">
-           <iframe src="https://urosario.edu.co" width="100%" height="auto" loading="lazy"></iframe>
+           <iframe src="https://urosario.edu.co" width="100%" height="auto"></iframe>
       </a>
     </td>
     <td>
       <a  href="https://www.lapatria.com" target="_blank">         
-        <iframe src="https://www.lapatria.com" width="100%" height="auto" loading="lazy"></iframe>
+        <iframe src="https://www.lapatria.com" width="100%" height="auto" ></iframe>
       </a>
     </td>
     <td>
