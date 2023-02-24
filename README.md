@@ -56,14 +56,12 @@ Y alguna más...
   <tr>
     <td>
       <a href="https://urosario.edu.co" target="_blank">
-        <h3>Universidad del Rosario</h3>
-         <img src="https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https://urosario.edu.co&screenshot=true" alt="Universidad del Rosario">
+           <iframe src="https://urosario.edu.co" width="100%" height="auto" loading="lazy"></iframe>
       </a>
     </td>
     <td>
-      <a  href="https://www.lapatria.com" target="_blank"> 
-        <h3>La Patria</h3>
-        <img src="https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https://www.lapatria.com&screenshot=true" alt="La patria">
+      <a  href="https://www.lapatria.com" target="_blank">         
+        <iframe src="https://www.lapatria.com" width="100%" height="auto" loading="lazy"></iframe>
       </a>
     </td>
     <td>
