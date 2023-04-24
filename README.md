@@ -80,9 +80,7 @@ Y alguna más...
     </td>
     <td valign="top" align="center">   
          <h4 align="center">Website React</h4>
-         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-        <img src="https://webjorgejimenez.000webhostapp.com/Git/Movies.png" hspace="0" vspace="0" style="max-width:100%">
-      </a>
+         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank"><img src="https://webjorgejimenez.000webhostapp.com/Git/Movies.png" hspace="0" vspace="0" style="max-width:100%"></a>
     </td>
   </tr>
 </table>
