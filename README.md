@@ -63,7 +63,7 @@ Y alguna más...
     <td>
       <a  href="https://www.lapatria.com" target="_blank"> 
         <h3 align="center">La Patria</h3>
-       <img src="https://webjorgejimenez.000webhostapp.com/Git/lapatria.png" alt="La patria" hspace="0" vspace="0" style="max-width:100%">
+       <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.png" alt="La patria" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
     <td>
