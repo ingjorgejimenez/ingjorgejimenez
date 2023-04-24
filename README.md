@@ -54,33 +54,33 @@ Y alguna más...
 ## Proyectos Realizados: ⚡
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" align="center">
-      <a href="https://urosario.edu.co" target="_blank">
+    <td valign="top" align="center">     
         <h4 align="center">Universidad del Rosario</h4>
+       <a href="https://urosario.edu.co" target="_blank">
            <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.jpg" alt="Universidad del Rosario" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td>
-      <a  href="https://www.lapatria.com" target="_blank"> 
+    <td valign="top" align="center">      
         <h4 align="center">La Patria</h4>
+      <a  href="https://www.lapatria.com" target="_blank"> 
        <img src="https://webjorgejimenez.000webhostapp.com/Git/lapatria.png" alt="La patria" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td>
-      <a href="https://casapropiacolombia.com/es" target="_blank">
+    <td valign="top" align="center">       
         <h4 align="center">Casa Propia</h4>
+      <a href="https://casapropiacolombia.com/es" target="_blank">
       <img src="https://webjorgejimenez.000webhostapp.com/Git/CasaPropia.png" alt="Casa Propia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-        <td>
-      <a href="https://tuseguro.libertyseguros.co" target="_blank">
+        <td valign="top" align="center">    
         <h4 align="center">Liberty Seguros</h4>
+            <a href="https://tuseguro.libertyseguros.co" target="_blank">
       <img src="https://webjorgejimenez.000webhostapp.com/Git/Liberty.png" alt="Liberty Seguros" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td>
-      <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
+    <td valign="top" align="center">   
          <h4 align="center">Website React</h4>
+         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
         <img src="https://webjorgejimenez.000webhostapp.com/Git/Movies.png" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
