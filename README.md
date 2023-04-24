@@ -52,11 +52,11 @@ Y alguna más...
 [![GitHub Star](https://img.shields.io/badge/GitHub-Follow-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ingjorgejimenez)
 
 ## Proyectos Realizados: ⚡
-<table style="width: 100%">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td valign="top" align="center">
       <a href="https://urosario.edu.co" target="_blank">
-           <img src="https://previews.dropbox.com/p/thumb/AB1r-xLsg0EF4VxtixpTbQP2m_wSA5fW8QwhFGutkXEKm6LNO_00t0JzeUfruYdRR3uwS4HgofFCAb4CNNYjS0utrmV5315KxXyy_NT3xFEY4s8nG6UR8qfhKv_KAteHlXn_XF-v96Ex2btI4-Jg78Mcm3pVQSTLaOmKxYNO1iOUx3BzW1Ef3AC0k0PtZjOGsaZms28PHBrrvHnMpg_oC1QMXmfq4jQgM5rrK1SbUStZ5qlnkZpEcVcybK2qV9_e7SK_WdHtPVSoGYoqh53ZNY4kZDkiUKUhRZLGnYmJuvamdO1RKiM9mo9k3nV9la7ePmqQB1FfZi3gw8ACDqGbxrBxiYzC3leMIZegPa4RB9wWNl2JjRNRavOOgmb4s_bZHZ0/p.png" alt="Universidad del Rosario">
+           <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.png">
       </a>
     </td>
     <td>
