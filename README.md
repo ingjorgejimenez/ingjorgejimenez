@@ -57,7 +57,7 @@ Y alguna más...
     <td valign="top" align="center">
       <a href="https://urosario.edu.co" target="_blank">
         <h3 align="center">Universidad del Rosario</h3>
-           <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.png" alt="Universidad del Rosario" hspace="0" vspace="0" style="max-width:100%">
+           <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.jpg" alt="Universidad del Rosario" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
     <td>
