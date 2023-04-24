@@ -56,17 +56,26 @@ Y alguna más...
   <tr>
     <td valign="top" align="center">
       <a href="https://urosario.edu.co" target="_blank">
+        <h3>Universidad del Rosario</h3>
            <img src="https://webjorgejimenez.000webhostapp.com/Git/urosario.png" alt="Universidad del Rosario">
       </a>
     </td>
     <td>
-      <a  href="https://www.lapatria.com" target="_blank">         
+      <a  href="https://www.lapatria.com" target="_blank"> 
+        <h3>La Patria</h3>
        <img src="https://webjorgejimenez.000webhostapp.com/Git/lapatria.png" alt="La patria">
       </a>
     </td>
     <td>
       <a href="https://casapropiacolombia.com/es" target="_blank">
+        <h3>Casa Propia</h3>
       <img src="https://webjorgejimenez.000webhostapp.com/Git/CasaPropia.png" alt="Casa Propia">
+      </a>
+    </td>
+        <td>
+      <a href="https://tuseguro.libertyseguros.co" target="_blank">
+        <h3>Liberty Seguros</h3>
+      <img src="https://webjorgejimenez.000webhostapp.com/Git/Liberty.png" alt="Liberty Seguros">
       </a>
     </td>
     <td>
