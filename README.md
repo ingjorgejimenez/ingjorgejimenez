@@ -34,11 +34,13 @@ Me considero una persona con destreza para trabajar bajo presión, emprendedora,
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=&labelColor=101010)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=&labelColor=101010)
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=&labelColor=101010)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=white&label=&labelColor=101010)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=&labelColor=101010)
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=&labelColor=101010)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=&labelColor=101010)
 ![Drupal](https://img.shields.io/static/v1?style=for-the-badge&message=Drupal&color=0678BE&logo=Drupal&logoColor=FFFFFF&label=&labelColor=101010)
 [![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=&labelColor=101010)]()
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=white&label=&labelColor=101010)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=&labelColor=101010)
 ![FileZilla](https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=&labelColor=101010)
@@ -91,6 +93,8 @@ Y algunas más...
           <img src="Comfandi.png" alt="Comfandi" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
+  </tr>
+   <tr>
     <td valign="top" align="center">   
          <h4 align="center">Website React</h4>
          <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
@@ -103,6 +107,6 @@ Y algunas más...
          <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
          </a>
     </td>
-  </tr>
+   </tr>
 </table>
 <h3>Avanza para ver mis proyectos públicos: ↆ ¡Gracias!</h3>
