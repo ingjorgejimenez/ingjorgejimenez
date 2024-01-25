@@ -22,11 +22,11 @@ Me considero una persona con destreza para trabajar bajo presión, emprendedora,
 
 ## Tecnologías:
 
-[![React](https://img.shields.io/badge/-ReactJs-4AC41C?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=&labelColor=101010)
-![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=&labelColor=101010)
+[![React](https://img.shields.io/badge/-ReactJs-4AC41C?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)![Certificado PDF](https://img.shields.io/static/v1?style=for-the-badge&message=%E2%86%86&color=BF0000&logo=adobe-acrobat-reader&logoColor=white&label=&labelColor=101010)](https://www.udemy.com/certificate/UC-87a5b44d-19a0-4afe-8286-93c2abde3abc/)
+[![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=&labelColor=101010)![Certificado Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=%E2%86%86&color=BF0000&logo=adobe-acrobat-reader&logoColor=white&label=&labelColor=101010)](https://www.udemy.com/certificate/UC-15056aed-19ae-4de2-982e-645a1151ccda/)
+[![React Native](https://img.shields.io/static/v1?style=for-the-badge&message=React+Native&color=61DAFB&logo=React&logoColor=FFFFFF&label=&labelColor=101010)![Certificado Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=%E2%86%86&color=BF0000&logo=adobe-acrobat-reader&logoColor=white&label=&labelColor=101010)](https://www.udemy.com/certificate/UC-7d39fc8c-ea05-4cd1-a2c5-81f9526636e8/)
+[![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=&labelColor=101010)![Certificado Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=%E2%86%86&color=BF0000&logo=adobe-acrobat-reader&logoColor=white&label=&labelColor=101010)](https://www.udemy.com/certificate/UC-5e71ab33-8e30-4df9-b8ed-1afc56134ca9/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=&labelColor=101010)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=&labelColor=101010)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=&labelColor=101010)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=&labelColor=101010)
@@ -121,4 +121,4 @@ Y algunas más...
     </td>
    </tr>
 </table>
-<h3>Avanza para ver mis proyectos públicos: ↆ ...¡Gracias!</h3>
+<h3>Avanza para seguir viendo mis proyectos públicos: ↆ ...¡Gracias!</h3>
