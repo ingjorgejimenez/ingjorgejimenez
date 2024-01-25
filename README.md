@@ -72,24 +72,32 @@ Y algunas más...
     <td valign="top" align="center">  
       <a href="https://urosario.edu.co" target="_blank">   
         <h4 align="center">Universidad del Rosario</h4>
+      </a>
+      <a href="https://urosario.edu.co" target="_blank"> 
         <img src="UniversidadRosario.png" alt="Universidad del Rosario" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
     <td valign="top" align="center">  
       <a  href="https://www.lapatria.com" target="_blank">    
         <h4 align="center">La Patria</h4>
+      </a>
+      <a  href="https://www.lapatria.com" target="_blank">   
         <img src="LaPatria.png" alt="La Patria" hspace="0" vspace="0" style="max-width:100%"> 
       </a>
     </td>
     <td valign="top" align="center">  
-    <a href="https://casapropiacolombia.com/es" target="_blank">     
+      <a href="https://casapropiacolombia.com/es" target="_blank">     
         <h4 align="center">Casa Propia</h4>
+      </a>
+      <a href="https://casapropiacolombia.com/es" target="_blank"> 
         <img src="CasaPropia.png" alt="Casa Propia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
     <td valign="top" align="center"> 
       <a href="https://www.comfandi.com.co/" target="_blank">   
-        <h4 align="center">Comfandi</h4>    
+        <h4 align="center">Comfandi</h4> 
+      </a>
+      <a href="https://www.comfandi.com.co/" target="_blank">   
         <img src="Comfandi.png" alt="Comfandi" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
@@ -98,12 +106,16 @@ Y algunas más...
     <td valign="top" align="center">   
         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
           <h4 align="center">Website React</h4>
+        </a>
+        <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
           <img src="Movies.png" alt="Website React" hspace="0" vspace="0" style="max-width:100%">
         </a>
     </td>
     <td valign="top" align="center">   
-      <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
+      <a href="https://piccolombia.com/" target="_blank">
         <h4 align="center">Pic Colombia</h4>
+      </a>
+      <a href="https://piccolombia.com/" target="_blank">
         <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
