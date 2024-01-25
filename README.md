@@ -62,7 +62,10 @@ Y algunas más...
 [![GitHub Star](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ingjorgejimenez)
 
 </br>
+
 ## Proyectos Realizados: ⚡
+
+</br>
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
