@@ -59,54 +59,51 @@ Y algunas más...
 [![Facebook](https://img.shields.io/badge/Facebook-@Jorge_Jimenez-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=101010)](https://www.facebook.com/ing_jorgejimenez)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-Jorge_Jimenez-25D366?style=for-the-badge&logo=WhatsApp&logoColor=25D366&labelColor=101010)](https://wa.me/+573183296814)
 [![Outlook](https://img.shields.io/badge/Outlook-ingjorge-0078D4?style=for-the-badge&logo=Microsoft+Outlook&logoColor=0078D4&labelColor=101010)](mailto:ing_jorgejimenez@outlook.com)
+[![GitHub Star](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ingjorgejimenez)
+
 </br>
-
-### Puedes apoyarme siguiendome "Follow ✨". ¡Gracias!
-
-[![GitHub Star](https://img.shields.io/badge/GitHub-Follow-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/ingjorgejimenez)
-
 ## Proyectos Realizados: ⚡
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" align="center">     
+    <td valign="top" align="center">  
+      <a href="https://urosario.edu.co" target="_blank">   
         <h4 align="center">Universidad del Rosario</h4>
-       <a href="https://urosario.edu.co" target="_blank">
         <img src="UniversidadRosario.png" alt="Universidad del Rosario" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td valign="top" align="center">      
+    <td valign="top" align="center">  
+      <a  href="https://www.lapatria.com" target="_blank">    
         <h4 align="center">La Patria</h4>
-      <a  href="https://www.lapatria.com" target="_blank">
-       <img src="LaPatria.png" alt="La Patria" hspace="0" vspace="0" style="max-width:100%"> 
+        <img src="LaPatria.png" alt="La Patria" hspace="0" vspace="0" style="max-width:100%"> 
       </a>
     </td>
-    <td valign="top" align="center">       
+    <td valign="top" align="center">  
+    <a href="https://casapropiacolombia.com/es" target="_blank">     
         <h4 align="center">Casa Propia</h4>
-      <a href="https://casapropiacolombia.com/es" target="_blank">
-       <img src="CasaPropia.png" alt="Casa Propia" hspace="0" vspace="0" style="max-width:100%">
+        <img src="CasaPropia.png" alt="Casa Propia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td valign="top" align="center">    
-        <h4 align="center">Comfandi</h4>
-            <a href="https://www.comfandi.com.co/" target="_blank">
-          <img src="Comfandi.png" alt="Comfandi" hspace="0" vspace="0" style="max-width:100%">
+    <td valign="top" align="center"> 
+      <a href="https://www.comfandi.com.co/" target="_blank">   
+        <h4 align="center">Comfandi</h4>    
+        <img src="Comfandi.png" alt="Comfandi" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
   </tr>
    <tr>
     <td valign="top" align="center">   
-         <h4 align="center">Website React</h4>
-         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-         <img src="Movies.png" alt="Website React" hspace="0" vspace="0" style="max-width:100%">
-         </a>
+        <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
+          <h4 align="center">Website React</h4>
+          <img src="Movies.png" alt="Website React" hspace="0" vspace="0" style="max-width:100%">
+        </a>
     </td>
     <td valign="top" align="center">   
-         <h4 align="center">Pic Colombia</h4>
-         <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
-         <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
-         </a>
+      <a href="https://ingjorgejimenez.github.io/Movies/" target="_blank">
+        <h4 align="center">Pic Colombia</h4>
+        <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
+      </a>
     </td>
    </tr>
 </table>
-<h3>Avanza para ver mis proyectos públicos: ↆ ¡Gracias!</h3>
+<h3>Avanza para ver mis proyectos públicos: ↆ ...¡Gracias!</h3>
