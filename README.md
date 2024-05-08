@@ -119,6 +119,14 @@ Y algunas más...
         <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
+    <td valign="top" align="center">   
+      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
+        <h4 align="center">Comfandi Rediseño</h4>
+      </a>
+      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
+        <img src="ComfandiRediseño.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
+      </a>
+    </td>
    </tr>
 </table>
 <h3>Avanza para seguir viendo mis proyectos públicos: ↆ ...¡Gracias!</h3>
