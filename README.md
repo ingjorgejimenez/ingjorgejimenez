@@ -73,6 +73,14 @@ Y algunas más...
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
+    <td valign="top" align="center">   
+      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
+        <h4 align="center">Comfandi Rediseño</h4>
+      </a>
+      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
+        <img src="ComfandiRediseño.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
+      </a>
+    </td>
     <td valign="top" align="center">  
       <a href="https://urosario.edu.co" target="_blank">   
         <h4 align="center">Universidad del Rosario</h4>
@@ -82,27 +90,11 @@ Y algunas más...
       </a>
     </td>
     <td valign="top" align="center">  
-      <a  href="https://www.lapatria.com" target="_blank">    
-        <h4 align="center">La Patria</h4>
-      </a>
-      <a  href="https://www.lapatria.com" target="_blank">   
-        <img src="LaPatria.png" alt="La Patria" hspace="0" vspace="0" style="max-width:100%"> 
-      </a>
-    </td>
-    <td valign="top" align="center">  
       <a href="https://casapropiacolombia.com/es" target="_blank">     
         <h4 align="center">Casa Propia</h4>
       </a>
       <a href="https://casapropiacolombia.com/es" target="_blank"> 
         <img src="CasaPropia.png" alt="Casa Propia" hspace="0" vspace="0" style="max-width:100%">
-      </a>
-    </td>
-    <td valign="top" align="center"> 
-      <a href="https://www.comfandi.com.co/" target="_blank">   
-        <h4 align="center">Comfandi</h4> 
-      </a>
-      <a href="https://www.comfandi.com.co/" target="_blank">   
-        <img src="Comfandi.png" alt="Comfandi" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
   </tr>
@@ -123,14 +115,7 @@ Y algunas más...
         <img src="PicColombia.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
       </a>
     </td>
-    <td valign="top" align="center">   
-      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
-        <h4 align="center">Comfandi Rediseño</h4>
-      </a>
-      <a href="https://front-web-prd.appcomfandi.com/" target="_blank">
-        <img src="ComfandiRediseño.png" alt="Pic Colombia" hspace="0" vspace="0" style="max-width:100%">
-      </a>
-    </td>
+   <td></td>
    </tr>
 </table>
 <h3>Avanza para seguir viendo mis proyectos públicos: ↆ ...¡Gracias!</h3>
